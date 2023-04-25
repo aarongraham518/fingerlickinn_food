@@ -2,9 +2,11 @@
 Please note!!! Application is not done and under construction.
 This is a Food truck mobile app
 
+Entrees and Drinks can be pressed/selected (from menu).
+
 Global State files to handle the favorite food items when a user presses the "star" in the product details page
 or to add items to the cart are located in the store/context directory. The buy "button" in the shopping cart is next on the list 
-to edit.
+to edit, but added items to the cart are global.
 
 Data models for the categories and meals locations, /models
 
