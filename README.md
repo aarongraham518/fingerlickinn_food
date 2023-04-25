@@ -16,5 +16,6 @@ All screens are not finalized, but are located in /screens directory
 
 Assets for the app are located in assets/images
 
-Screen shots of the mobile app, are provided.
+Screen shots of the mobile app, are provided below the package.json file and begin with "screen1, screen2, etc"
 
+download expo go to run on mobile. npm run start <-after you install the node modules with with "npm install"
